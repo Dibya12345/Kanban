@@ -45,7 +45,7 @@ Bonus:
 
 ### Links
 
-- Live Site URL: [link](https://kanban-task-management-app.netlify.app/)
+- Live Site URL: [link](https://frolicking-puffpuff-129874.netlify.app/)
 
 ### Built with
 
